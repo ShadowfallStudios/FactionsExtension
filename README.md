@@ -1,7 +1,4 @@
 # Factions Extension Plugin
-[![Version](https://img.shields.io/github/v/release/piperift/FactionsExtension?label=version)](https://github.com/PipeRift/FactionsExtension/releases)
-![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-5.1%2B-orange)
-[![Discord](https://img.shields.io/discord/288221302089711616?color=%237289da&label=discord)](https://discord.gg/nnsdr22)
 
 Add factions and relations in your game using C++ or Blueprints
 
