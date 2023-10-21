@@ -2,8 +2,6 @@
 
 Add factions and relations in your game using C++ or Blueprints
 
-This plugin is for Unreal Engine. For older engine versions visit [Releases](https://github.com/PipeRift/FactionsExtension/releases) to find compatible versions<br>
-
 ## What are "Factions"
 When we say **Faction** we refer to a **group of entities or actors** that can share behavior or data.
 
