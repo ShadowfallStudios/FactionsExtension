@@ -1,6 +1,6 @@
 # Factions Extension Plugin
 
-Add factions and relations in your game using C++ or Blueprints
+Add factions and relations in your game using C++ or Blueprints. Forked from https://github.com/PipeRift/FactionsExtension
 
 ## What are "Factions"
 When we say **Faction** we refer to a **group of entities or actors** that can share behavior or data.
